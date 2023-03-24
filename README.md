@@ -8,3 +8,7 @@ I'm a starting Frontend Developer and I especially like to program with React, c
 - 🌱 I'm currently working on Movies Browser   
 - 🌐 You can check all my project here -> [Portofolio](https://github.com/xxFino?tab=repositories).
 - 📧 If you want to contact me about some new projects or maybe job <br/> opportunities, go ahead 😃. Here is my email -> bartlomiej.snochowski@gmail.com.
+
+## Personal Homegape
+
+I have also my own personal homepage where you can find and read more informations about me 😃 -> [Personal Homepage](https://xxfino.github.io/Personal-Homepage/)
