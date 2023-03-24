@@ -1,2 +1,2 @@
-# Bart-omiej-Snochowski
+# Bartlomiej-Snochowski
 My personal GitHub profile. 
